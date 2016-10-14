@@ -13,7 +13,7 @@ future: true
 
 include: [".htaccess"]
 exclude: ["README.md", ".git", ".svn"]
-keep_files: ["/javascripts/", "/stylesheets/", "/images/", "/res/"]
+keep_files: ["/jekyll_study/javascripts/", "/jekyll_study/stylesheets/", "/jekyll_study/images/", "/jekyll_study/res/"]
 encoding : utf-8
 markdown_ext: "md"
 textile_ext:  "textile"
